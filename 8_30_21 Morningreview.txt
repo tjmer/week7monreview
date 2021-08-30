@@ -1,0 +1,12 @@
+﻿What is deployment: Getting website online
+Where is deployment in the software lifecycle: final phase before  the maintenance
+What are some popular hosting companies/services?
+* Bluehost
+* Heroku
+* AWS
+* DreamHost
+* Go Daddy
+* Hostgator
+
+
+How do they differ from one another? They differ in price.  Not all of them come with a domain
